@@ -59,6 +59,7 @@ a {
 }
 
 .item {
+    cursor: pointer;
     display: flex;
     flex-basis: 80%;
     align-items: flex-start;
